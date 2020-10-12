@@ -1,1 +1,2 @@
-# Simple Chat Application built with NodeJS, WebSockets and socket.io
+# Simple Chat Applicatio
+<p>Tech Slack:NodeJS, WebSockets and socket.io<p>
